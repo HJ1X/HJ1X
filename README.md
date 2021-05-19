@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN stack 
 - 💞️ I’m looking to collaborate on Development projects on MERN stack
 - 📫 How to reach me 
+
      - Write to me on - jaroli.himanshu@gmail.com
      - My profile - www.linkedin.com/in/himanshu-jaroli
 
