@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HJ1X
 - 👀 I’m interested in development, ML, sports, travelling and music
-- 🌱 I’m currently learning MERN stack 
+- 🌱 I’m currently learning Full-stack web development
 - 💞️ I’m looking to collaborate on Development projects on MERN stack
 - 📫 How to reach me 
 
