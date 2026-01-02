@@ -36,8 +36,8 @@ to create impactful solutions together!
 - 👨🏻‍💻 &nbsp; Most of my projects are available on
   [Github](https://github.com/hj1x?tab=repositories) and on my
   [portfolio](https://www.himanshujaroli.netlify.com/portfolio).
-- 💬 &nbsp; [Ask me](https://calendly.com/abhinaythakur/30min) about anything
-  tech related, I am happy to help.
+- 💬 &nbsp; [Ask me](https://cal.com/himanshu-jaroli-cjbeah/30min) about anything
+  tech or business related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on
   [LinkedIn](https://www.linkedin.com/in/himanshu-jaroli/) or drop a mail at [mail](jaroli.himanshu.work@gmail.com)
 - 📝 &nbsp; Checkout my
