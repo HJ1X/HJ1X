@@ -18,8 +18,8 @@ to create impactful solutions together!
 <a href='https://www.linkedin.com/in/himanshu-jaroli/'>
   <img target="_blank" align='left' alt="linkedin" src="https://raw.githubusercontent.com/thisisabhinay/thisisabhinay/master/public/social/linkedin.svg" height='18px'/>
 </a>
-<a href='https://twitter.com/himanshu_jaroli/'>
-  <img target="_blank" align='left' alt="twitter" src="https://raw.githubusercontent.com/thisisabhinay/thisisabhinay/master/public/social/twitter.svg" height='18px'/>
+<a href='https://x/novacraftsai/'>
+  <img target="_blank" align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height='18px'/>
 </a>
 
 <br/>
