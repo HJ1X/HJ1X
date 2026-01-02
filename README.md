@@ -31,6 +31,7 @@ to create impactful solutions together!
 ### More About Me
 
 - 💼 &nbsp; Software Engineer at [TCS](http://tcs.com/)
+- 📈 &nbsp; Passionately building [NovaCraftsAI.com](https://novacraftsai.com)
 - 🌱 &nbsp; I’m currently learning about **software architecture**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on
   [Github](https://github.com/hj1x?tab=repositories) and on my
