@@ -26,7 +26,7 @@ to create impactful solutions together!
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj1x&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
+<img align="right" src="https://github-readme-stats-jade-psi-90.vercel.app/api/top-langs/?username=hj1x&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
 
 ### More About Me
 
