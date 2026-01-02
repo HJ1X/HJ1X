@@ -44,6 +44,7 @@ to create impactful solutions together!
 
 <br>
 
+<!-- Removing for now. Should be refined for a clearer picture of stack/expertise
 ### Languages and Tools
 
 <div>
@@ -79,3 +80,4 @@ to create impactful solutions together!
   <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=vscode" alt="vscode"/>
   <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=md" alt="md"/>
 </div>
+-->
