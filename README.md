@@ -3,11 +3,11 @@
 ## Hi there 👋, I'm Himanshu
 
 I’m a software engineer with 3.5+ years of experience who enjoys solving real-world problems through technology by building and shipping end-to-end products.
-Let's connect and explore opportunities to create impactful solutions together!
 
 🚀 Building [**Naukri Outreach**](https://naukri-outreach.vercel.app/) and [**NovaCraftsAI**](https://novacraftsai.com/).
 
-<br/>
+<br />
+
 <a href='https://x.com/himanshu_jaroli/'>
   <img target="_blank" align='left' alt="X" src="./twitter.png" height='18px'/>
 </a>
@@ -17,13 +17,12 @@ Let's connect and explore opportunities to create impactful solutions together!
 <a href='mailto:jaroli.himanshu.work@gmail.com'>
   <img target="_blank" align='left' alt="Mail" src="./mail.png" height='22px'/>
 </a>
-<br/>
 
-<br/>
+<!--
+<img align="right" src="https://github-readme-stats-jade-psi-90.vercel.app/api/?username=hj1x&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
+-->
 
-<br/>
-
-<img align="right" src="https://github-readme-stats-jade-psi-90.vercel.app/api/top-langs/?username=hj1x&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
+<br />
 
 ### More About Me
 
@@ -33,7 +32,7 @@ Let's connect and explore opportunities to create impactful solutions together!
   [GitHub](https://github.com/HJ1X?tab=repositories) and my
   [Portfolio](https://himanshujaroli.netlify.app)
 - 🌍 Based in India, working with **global teams**
-- 📫 &nbsp; Feel free to ping me on
+- 📫 Feel free to ping me on
   [LinkedIn](https://www.linkedin.com/in/himanshu-jaroli/)
 
 <br>
