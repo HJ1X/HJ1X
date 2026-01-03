@@ -2,25 +2,22 @@
 
 ## Hi there 👋, I'm Himanshu
 
-As a seasoned frontend engineer with more than 3 years of hands-on experience in
-web development, I've been involved in designing, developing, and deploying
-applications across various technologies and programming languages. I have a
-passion for crafting seamless, user-centric software applications. Alongside my
-strong problem-solving skills and ability to thrive in collaborative team
-environments, I am committed to continuous growth and refinement of my coding
-skills as a software engineer.
+I’m a software engineer with 3.5+ years of experience who enjoys solving real-world problems through technology by building and shipping end-to-end products.
+Let's connect and explore opportunities to create impactful solutions together!
 
-At the end of the day, what really drives me is the chance to work on innovative
-projects that make a genuine difference. Let's connect and explore opportunities
-to create impactful solutions together!
+🚀 Building [**Naukri Outreach**](https://naukri-outreach.vercel.app/) and [**NovaCraftsAI**](https://novacraftsai.com/).
 
-
-<a href='https://www.linkedin.com/in/himanshu-jaroli/'>
-  <img target="_blank" align='left' alt="linkedin" src="https://raw.githubusercontent.com/thisisabhinay/thisisabhinay/master/public/social/linkedin.svg" height='18px'/>
+<br/>
+<a href='https://x.com/himanshu_jaroli/'>
+  <img target="_blank" align='left' alt="X" src="./twitter.png" height='18px'/>
 </a>
-<a href='https://x/novacraftsai/'>
-  <img target="_blank" align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height='18px'/>
+<a href='https://cal.com/himanshu-jaroli-cjbeah/30min'>
+  <img target="_blank" align='left' alt="cal.com" src="./calendar.png" height='18px'/>
 </a>
+<a href='mailto:jaroli.himanshu.work@gmail.com'>
+  <img target="_blank" align='left' alt="Mail" src="./mail.png" height='22px'/>
+</a>
+<br/>
 
 <br/>
 
@@ -30,18 +27,14 @@ to create impactful solutions together!
 
 ### More About Me
 
-- 💼 &nbsp; Software Engineer at [TCS](http://tcs.com/)
-- 📈 &nbsp; Passionately building [NovaCraftsAI.com](https://novacraftsai.com)
-- 🌱 &nbsp; I’m currently learning about **software architecture**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on
-  [Github](https://github.com/hj1x?tab=repositories) and on my
-  [portfolio](https://www.himanshujaroli.netlify.com/portfolio).
-- 💬 &nbsp; [Ask me](https://cal.com/himanshu-jaroli-cjbeah/30min) about anything
-  tech or business related, I am happy to help.
+- 🏦 Building and maintaining **production systems** at [TCS](https://www.tcs.com/)
+- 🧠 Focused on **software architecture, scalability, and system design**
+- 🛠️ Shipping products and experiments on
+  [GitHub](https://github.com/HJ1X?tab=repositories) and my
+  [Portfolio](https://himanshujaroli.netlify.app)
+- 🌍 Based in India, working with **global teams**
 - 📫 &nbsp; Feel free to ping me on
-  [LinkedIn](https://www.linkedin.com/in/himanshu-jaroli/) or drop a mail at [mail](jaroli.himanshu.work@gmail.com)
-- 📝 &nbsp; Checkout my
-  [resume](https://www.himanshujaroli.netifly.app/resume.pdf)
+  [LinkedIn](https://www.linkedin.com/in/himanshu-jaroli/)
 
 <br>
 
