@@ -2,11 +2,27 @@
 
 ## Hi there 👋, I'm Himanshu
 
-I’m a software engineer with 3.5+ years of experience who enjoys solving real-world problems through technology by building and shipping end-to-end products.
+I’m a software engineer with 4+ years of experience who enjoys solving real-world problems through technology by building and shipping end-to-end products.
 
-🚀 Building [**Naukri Outreach**](https://naukri-outreach.vercel.app/) and [**NovaCraftsAI**](https://novacraftsai.com/).
+🚀 Building [**ReferMate**](https://refermate.novacraftsai.com/) and [**NovaCraftsAI**](https://novacraftsai.com/).
 
-<br />
+<!--
+<img align="right" src="https://github-readme-stats-jade-psi-90.vercel.app/api/?username=hj1x&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
+-->
+
+### More About Me
+
+- 🌐 Part of the **[Toptal](https://www.toptal.com/) network**
+- 🏦 Built and scaled **production enterprise systems** at [TCS](https://www.tcs.com/)
+- 🧠 Focused on **system architecture, scalability, and AI**
+- 🛠️ Shipping products and experiments on
+  [GitHub](https://github.com/HJ1X?tab=repositories) and my
+  [Portfolio](https://himanshujaroli.novacraftsai.com)
+- 🌍 Based in India, working with **global teams**
+- 📫 Feel free to ping me on
+  [LinkedIn](https://www.linkedin.com/in/himanshu-jaroli/)
+
+<br>
 
 <a href='https://x.com/himanshu_jaroli/'>
   <img target="_blank" align='left' alt="X" src="./twitter.png" height='18px'/>
@@ -17,25 +33,6 @@ I’m a software engineer with 3.5+ years of experience who enjoys solving real-
 <a href='mailto:jaroli.himanshu.work@gmail.com'>
   <img target="_blank" align='left' alt="Mail" src="./mail.png" height='22px'/>
 </a>
-
-<!--
-<img align="right" src="https://github-readme-stats-jade-psi-90.vercel.app/api/?username=hj1x&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
--->
-
-<br />
-
-### More About Me
-
-- 🏦 Building and maintaining **production systems** at [TCS](https://www.tcs.com/)
-- 🧠 Focused on **software architecture, scalability, and system design**
-- 🛠️ Shipping products and experiments on
-  [GitHub](https://github.com/HJ1X?tab=repositories) and my
-  [Portfolio](https://himanshujaroli.netlify.app)
-- 🌍 Based in India, working with **global teams**
-- 📫 Feel free to ping me on
-  [LinkedIn](https://www.linkedin.com/in/himanshu-jaroli/)
-
-<br>
 
 <!-- Removing for now. Should be refined for a clearer picture of stack/expertise
 ### Languages and Tools
