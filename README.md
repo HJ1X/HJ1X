@@ -12,7 +12,7 @@ I’m a software engineer with 4+ years of experience who enjoys solving real-wo
 
 ### More About Me
 
-- 🌐 Part of the **[Toptal](https://www.toptal.com/) network**
+- 🌐 Part of the **[Toptal](https://www.toptal.com/developers/resume/himanshu-jaroli/) network**
 - 🏦 Built and scaled **production enterprise systems** at [TCS](https://www.tcs.com/)
 - 🧠 Focused on **system architecture, scalability, and AI**
 - 🛠️ Shipping products and experiments on
